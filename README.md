@@ -13,10 +13,15 @@
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=vsantos1711&theme=hacker"/> 
 </div>
+  
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=23F000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Principais+tecnologias+que+domino%3A" alt="Typing SVG" /></a>
-  <br>
+  
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=23F000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Principais+tecnologias+que+domino%3A" alt="Typing SVG" /></a>
+</div>
+
+<br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
