@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu perfil profissional do GitHub 😁
+## Bem-vindo(a) ao meu perfil profissional do GitHub 😁
 
 ## :chart_with_upwards_trend: Minhas estatísticas
 
