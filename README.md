@@ -2,30 +2,33 @@
 
 <div align="center">
   
-[![Vsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsantos1711&theme=midnight-purple&card_width=500)](https://github.com/vsantos1711/vsantos1711)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&theme=midnight-purple&card_width=500&layout=compact)](https://github.com/vsantos1711)
+<div align = "center">
+<a href="https://github.com/vsantos1711">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400"/>         
 </div>
+<br>
+<br>
   
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=Technologies+that+i+domain%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1&pause=1000&color=9745F5&center=true&vCenter=true&width=450&lines=Technologies+that+i+domain%3A" alt="Typing SVG" /></a>
 </div>
 
+  
+<img align="center" alt="React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <br>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br>
+  
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1&pause=1000&color=9745F5&center=true&vCenter=true&width=450&lines=Social+medias%3A" alt="Typing SVG" /></a>
 </div>
- 
- <br>
- 
-  ## Social medias:
- 
-   <a href = "mailto:vsantos067100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-santos-a299331b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href = "mailto:vsantos067100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinicius-santos-a299331b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
 
