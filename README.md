@@ -4,7 +4,7 @@
   
 [![Vsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsantos1711&theme=midnight-purple&card_width=500)](https://github.com/vsantos1711/vsantos1711)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&theme=midnight-purple&card_width=500)](https://github.com/vsantos1711)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&theme=midnight-purple&card_width=500&layout=compact)](https://github.com/vsantos1711)
 </div>
   
 <div align="center">
