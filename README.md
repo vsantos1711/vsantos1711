@@ -1,14 +1,13 @@
 ## :chart_with_upwards_trend: My stats:
 
 <div align="center">
-  
-[![Vsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsantos1711&theme=midnight-purple&card_width=500)](https://github.com/vsantos1711/vsantos1711)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&theme=midnight-purple&card_width=500&layout=compact)](https://github.com/vsantos1711)
-</div>
+<a href="https://github.com/vsantos1711">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400"/>         
+</div><br>
   
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=Technologies+that+i+domain%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&weight=600&size=25&&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=Technologies+that+i+domain%3A" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -21,7 +20,7 @@
  
  <br>
  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=What+I'm+studying%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&weight=600&size=25&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=What+I'm+studying%3A" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -32,7 +31,7 @@
  
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=My+Social+medias%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&weight=600&size=25&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=My+Social+medias%3A" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
