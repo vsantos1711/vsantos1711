@@ -43,7 +43,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2500&weight=600&size=25&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=My+Social+medias%3A" alt="Typing SVG" /></a>
 </div>
-
+<br>
   
 [comment]: <> (Images about my social medias)
 <div style="display: inline_block" align="center">
@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/vinicius-santos-a299331b6/" target="_blank"><img align="center" alt="Linkedin" height="65" width="65" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>
 <a href="https://www.instagram.com/vnz.oz/" target="_blank"><img align="center" alt="Instagram" height="65" width="65" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
 </div>
-
+<br>
   
 [comment]: <> (Snake eating commits) 
 <div style="display: inline_block" align="center">
