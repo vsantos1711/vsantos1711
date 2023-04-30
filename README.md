@@ -3,7 +3,7 @@
 [comment]: <> (Cards with Stats and Most used Languages)
 <div align="center">
 <a href="https://github.com/vsantos1711">
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400"/>         
 </div><br>
 
