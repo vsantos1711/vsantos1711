@@ -34,10 +34,11 @@
 [comment]: <> (Images about what im studying)
 <div style="display: inline_block" align="center"><br>
   
-  <img align="center" alt="NestJS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="AWS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="NestJS" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+  <img align="center" alt="AWS" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
+  <img align="center" alt="C#" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center" alt=".Net" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt=".Net" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
   
 </div>
 <br>
