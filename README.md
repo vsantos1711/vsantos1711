@@ -33,7 +33,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="NestJS" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
-  <img align="center" alt="AWS" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
+  <img align="center" alt="React" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   
 </div>
 <br>
