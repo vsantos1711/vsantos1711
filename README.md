@@ -46,8 +46,3 @@
 </div>
 <br>
   
-[comment]: <> (Snake eating commits) 
-<div style="display: inline_block" align="center">
-<a href="https://github.com/vsantos1711" target="_blank"><img align="center" src="https://github.com/vsantos1711/vsantos1711/blob/output/github-contribution-grid-snake.svg" target="_blank"></a>
-</div>
-  
