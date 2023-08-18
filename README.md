@@ -1,48 +1,29 @@
-## :chart_with_upwards_trend: My stats:
+## Vinícius Francisco - Desenvolvedor Web
 
-  
-[comment]: <> (Text writing: "Technologies that i domain" )  
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2500&weight=600&size=25&&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=Technologies+that+i+domain%3A" alt="Typing SVG" /></a>
-</div>
-
-  
-[comment]: <> (Images about my technologies)  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-</div>
-<br>
-  
-  
-[comment]: <> (Text writing: "What i'm studying")
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2500&weight=600&size=25&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=What+I'm+studying%3A" alt="Typing SVG" /></a>
+<div>
+  <a href="https://github.com/vsantos1711">
+    <img height="145vh" src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="145vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400"/>    
+  </a>
 </div>
 
-[comment]: <> (Images about what im studying)
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="NestJS" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
-  <img align="center" alt="React" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  
+<div style="display: inline_block"><br>
+  <img align="center" alt="TS" height="40" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB">
+  <img align="center" alt="React" height="40" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Node" height="40" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Nest" height="40" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
-<br>
-
   
-[comment]: <> (Text writing: "My Social medias")
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2500&weight=600&size=25&color=9745F5&background=9745F512&center=true&vCenter=true&width=500&lines=My+Social+medias%3A" alt="Typing SVG" /></a>
+  ##
+ 
+<div> 
+  <a href="mailto:vsantos067100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/vnz.oz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/vsantos1711/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank">
+  </a> 
 </div>
-<br>
-  
-[comment]: <> (Images about my social medias)
-<div style="display: inline_block" align="center">
-<a href = "mailto:vsantos067100@gmail.com"><img align="center" alt="Gmail" height="65" width="65" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vinicius-santos-a299331b6/" target="_blank"><img align="center" alt="Linkedin" height="65" width="65" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>
-<a href="https://www.instagram.com/vnz.oz/" target="_blank"><img align="center" alt="Instagram" height="65" width="65" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
-</div>
-<br>
-  
