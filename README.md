@@ -1,13 +1,15 @@
 ## Vinícius Francisco - Desenvolvedor Web
 
-<div>
-  <a href="https://github.com/vsantos1711">
-    <img height="145vh" src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="145vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400"/>    
-  </a>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: inline_block"><br>
+<br>
+
+<div align="center">
   <img align="center" alt="TS" height="40" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB">
   <img align="center" alt="React" height="40" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Node" height="40" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -16,7 +18,7 @@
   
   ##
  
-<div> 
+<div align="center">
   <a href="mailto:vsantos067100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank">
   </a>
