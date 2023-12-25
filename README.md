@@ -9,7 +9,7 @@
 
 <br>
 
-![skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs)
+![skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs,tailwindcss)
 
   
   ##
