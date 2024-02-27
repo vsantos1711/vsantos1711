@@ -2,12 +2,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsantos1711&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantos1711&layout=compact&langs_count=168&theme=midnight-purple&card_width=400" height="140" alt="languages graph"  />
-</div>
-
-<br>
 
 ![skills](https://skillicons.dev/icons?i=laravel,typescript,react,nextjs,nodejs,nestjs,tailwindcss)
 
