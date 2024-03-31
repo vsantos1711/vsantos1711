@@ -1,7 +1,6 @@
-## Vinícius Santos - Desenvolvedor Web
+## Desenvolvedor Web FullStack especialista no ecossistema JavaScript, estudando AWS, Terraform e Serverless Apps com um profundo interesse na Otimização e a Escalabilidade de Aplicações Web.
 
-Apaixonado pelo ecossistema JavaScript e estudando AWS e aplicações Serverless, sou um Desenvolvedor web Full-stack profundamente interessado em Otimização e a Escalabilidade de aplicações web.
-
+<br>
 <div>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" >
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
