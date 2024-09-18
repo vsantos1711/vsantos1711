@@ -1,4 +1,4 @@
-## Desenvolvedor Web FullStack especialista no ecossistema JavaScript, estudando C#, .Net, Go com um profundo interesse na Otimização e a Escalabilidade de Aplicações Web.
+## Desenvolvedor Web FullStack especialista no ecossistema JavaScript, estudando Java e SpringBoot, com um profundo interesse na Otimização e a Escalabilidade de Aplicações Web.
 
 <br>
 <div>
