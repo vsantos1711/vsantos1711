@@ -3,8 +3,6 @@
 # Vinícius Santos - Desenvolvedor Fullstack 🟡🔵
 ## Desenvolvedor Web FullStack especialista no ecossistema JavaScript, estudando Java e SpringBoot, com um profundo interesse na Otimização e a Escalabilidade de Aplicações Web.
 
-##
-
 <br>
 <div>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
