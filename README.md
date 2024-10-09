@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F3A903&height=120&section=header"/>
 
 # Vinícius Santos - Desenvolvedor Fullstack 🟡🔵
-### Desenvolvedor Web FullStack especialista no ecossistema JavaScript, estudando Java e SpringBoot, com um profundo interesse na Otimização e a Escalabilidade de Aplicações Web.
+## Desenvolvedor Web FullStack especialista no ecossistema JavaScript, estudando Java e SpringBoot, com um profundo interesse na Otimização e a Escalabilidade de Aplicações Web.
 
 ##
 
